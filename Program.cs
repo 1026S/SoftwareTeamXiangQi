@@ -1,5 +1,5 @@
 ﻿using System;
-//trytry
+//try  try
 namespace SoftwareTeamXiangQi
 {
     class Program
