@@ -2,6 +2,7 @@
 
 namespace SoftwareTeamXiangQi
 {
+    //this is an other choice
     class Program
     {
 
